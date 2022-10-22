@@ -1,7 +1,7 @@
 # Jakub Rak
 ___
 ## Technology and Skills:
-[![My Skills](https://skillicons.dev/icons?i=py,flask,webpack,js,jquery,css,bootstrap,html,cpp,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,webpack,docker,js,jquery,css,bootstrap,html,cpp,vscode)](https://skillicons.dev)
 
 ---
 ## Recent Projects:
