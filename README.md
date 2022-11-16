@@ -17,7 +17,3 @@ ___
 <img src="pics/Auction Site.PNG" alt="Auction Site" title="Auction Site" style="display: flex; margin: 0 auto; max-width: 300px;">
 
 ### Front-end app based on Vanila JavaScript
-## 4. Pygame Mow_Lawn
-<img src="pics/Pygame.PNG" alt="Mow_Lawn" title="Mow_Lawn" style="display: flex; margin: 0 auto; max-width: 300px;">
-
-### Pygame script, where user has to mow the lawn by presing keys and move the lawn mover
