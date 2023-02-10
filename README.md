@@ -6,7 +6,7 @@ ___
 ---
 ## Recent Projects:
 ## 1. Vibes-News
-<img src="pics/Vibes.PNG" alt="Vibes-News" title="Vibes-News" style="display: flex; margin: 0 auto; max-width: 300px;">
+<img src="pics/Vibes_News.PNG" alt="Vibes-News" title="Vibes-News" style="display: flex; margin: 0 auto; max-width: 300px;">
 
 ## 2. Messenger
 <img src="pics/Messenger.PNG" alt="Messenger" title="Messenger" style="display: flex; margin: 0 auto; max-width: 300px;">
