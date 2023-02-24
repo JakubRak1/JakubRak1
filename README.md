@@ -20,8 +20,8 @@ ___
 </a>
 
 ### Python flask app connected with postgreSQL db through Docker.
-## 3. AuctionSite
+<!-- ## 3. AuctionSite
 ### Front-end app based on Vanila JavaScript
 <a href=https://github.com/JakubRak1/auctionSite>
     <img src="pics/Auction Site.PNG" alt="Auction Site" title="Auction Site" style="display: flex; margin: 0 auto; max-width: 300px;">
-</a>
+</a> -->
