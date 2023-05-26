@@ -1,7 +1,7 @@
 # Jakub Rak
 ___
 ## Technology and Skills:
-[![My Skills](https://skillicons.dev/icons?i=py,flask,selenium,webpack,docker,nodejs,react,js,jquery,css,bootstrap,html,cpp,mongodb,mysql,postgres,vscode,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,selenium,docker,nodejs,react,js,jquery,css,bootstrap,html,mongodb,mysql,postgres,vscode,github,postman)](https://skillicons.dev)
 
 ---
 ## Recent Projects:
