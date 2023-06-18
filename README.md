@@ -20,8 +20,8 @@ ___
 </a>
 
 ### Python flask app connected with postgreSQL db through Docker.
-<!-- ## 3. AuctionSite
-### Front-end app based on Vanila JavaScript
-<a href=https://github.com/JakubRak1/auctionSite>
-    <img src="pics/Auction Site.PNG" alt="Auction Site" title="Auction Site" style="display: flex; margin: 0 auto; max-width: 300px;">
-</a> -->
+## 3. CMR-Projects
+### Front-end app based on React along with Express API
+<a href=https://github.com/JakubRak1/CMR-Projects>
+    <img src="pics/React.PNG" alt="React App" title="CMR-Projects" style="display: flex; margin: 0 auto; max-width: 300px;">
+</a> 
