@@ -25,7 +25,8 @@ A full-stack web application that uses **AI + Computer Vision** to generate pers
 - Built with production-ready stack  
 
 🎥 **Project Walkthrough (MP4 Demo)**  
-![Demo](pics/aicreative-demo.gif)
+[![Watch the demo](https://img.youtube.com/vi/abc123XYZ/0.jpg)](https://youtu.be/nzJSLLcIff4)
+
 
 
 ## 2. Vibes-News
