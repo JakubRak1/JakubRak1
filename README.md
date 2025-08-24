@@ -25,9 +25,8 @@ A full-stack web application that uses **AI + Computer Vision** to generate pers
 - Built with production-ready stack  
 
 🎥 **Project Walkthrough (MP4 Demo)**  
-<video src="pics/aicreative-demo.mp4" width="600" autoplay loop muted playsinline>
-  Your browser does not support the video tag.
-</video>
+![Demo](pics/aicreative-demo.gif)
+
 
 ## 2. Vibes-News
 ### Back-end Python Flask App to manage news articles and users
